@@ -19,5 +19,5 @@ Whether it's optimizing strategies for internal teams or identifying trends in p
 📚 Projects
 Welcome to my [portfolio](link), where I showcase my projects.
 -->
-Let’s connect! You can reach me on [LinkedIn](www.linkedin.com/in/jade-towgood-b3a1611b9)
+Let’s connect! You can reach me on [LinkedIn](www.linkedin.com/in/jetowgood)
 
